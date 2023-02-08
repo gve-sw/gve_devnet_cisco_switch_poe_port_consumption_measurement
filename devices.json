@@ -1,0 +1,14 @@
+{
+  "device_name1": {
+    "device_type": "cisco_ios",
+    "host": "ip_address",
+    "username": "username",
+    "password": "password"
+  },
+  "device_name2": {
+    "device_type": "cisco_ios",
+    "host": "ip_address",
+    "username": "username",
+    "password": "password"
+  }
+}
